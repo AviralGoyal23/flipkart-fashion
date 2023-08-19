@@ -207,7 +207,14 @@ body {
 header
 --------------------------------------------- 
 */
-
+.headd{
+  color: black;
+  margin: 30px;
+}
+.headdd{
+  color: black;
+  margin: 30px;
+}
 .background-header {
   border-bottom: none !important;
   background-color: #fff;
@@ -653,7 +660,7 @@ banner
 
 .main-banner {
   border-bottom: 3px  #eee;
-  padding-top: 160px;
+  padding-top: 112px;
   padding-bottom: 30px;
 }
 
